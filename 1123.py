@@ -1,2 +1,5 @@
 #print
-print("123")
+def print_function():
+    print("123")
+
+print_function()
